@@ -23,9 +23,9 @@ multicultural environments across Venezuela, Mexico, and Italy.
 
 | Project | Type | Stack | Status |
 |---|---|---|---|
-| [Gessica Chiellino - Mental Coach](https://gessicachiellino.com) | Web | Angular 19 SSR · Java · Spring Boot · PostgreSQL | 🟢 Production |
-| [Silvia Bonazzi Massage](https://silviabonazzimassage.com) | Web | Angular 19 SSR · Express JS | 🟢 Production |
-| [ALMA Lab Events](https://almalab-events.up.railway.app) | Web | Angular 19 SSR · Express JS | 🟢 Production |
+| [Gessica Chiellino - Mental Coach ↗](https://gessicachiellino.com) | Web | Angular 19 SSR · Java · Spring Boot · PostgreSQL | 🟢 Production |
+| [Silvia Bonazzi Massage ↗](https://silviabonazzimassage.com) | Web | Angular 19 SSR · Express JS | 🟢 Production |
+| [ALMA Lab Events ↗](https://almalab-events.up.railway.app) | Web | Angular 19 SSR · Express JS | 🟢 Production |
 | International Educational Institute | Web + Mobile | SAP UI5 · Java · Flutter | 🟢 Production |
 | Warehouse Logistics System | Web | SAP UI5 · Java · OData · SAP HANA | 🟢 Production |
 | Claims Management System | Web | SAP UI5 · Java · OData · SAP HANA | 🟢 Production |
@@ -55,6 +55,6 @@ multicultural environments across Venezuela, Mexico, and Italy.
 
 ## 📬 Contact
 
-- 🌐 [jessimasi.dev](https://jessimasi.dev)
-- 💼 [LinkedIn](https://linkedin.com/in/jessicacespedessica)
+- 🌐 [jessimasi.dev ↗](https://jessimasi.dev)
+- 💼 [LinkedIn ↗](https://linkedin.com/in/jessicacespedessica)
 - 📧 jcsica15@gmail.com
